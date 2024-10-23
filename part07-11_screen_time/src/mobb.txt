@@ -1,0 +1,4 @@
+Time period: 22.3.2232-22.3.2232
+Total minutes: 23
+Average minutes: 23.0
+22.3.2232: 23

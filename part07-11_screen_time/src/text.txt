@@ -1,0 +1,4 @@
+Time period: 22.02.2222-22.02.2222
+Total minutes: 33
+Average minutes: 33.0
+22.2.2222: 33

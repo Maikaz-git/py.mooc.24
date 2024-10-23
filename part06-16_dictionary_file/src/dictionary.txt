@@ -1,0 +1,3 @@
+auto;car
+koti;houme
+laukku;bag
